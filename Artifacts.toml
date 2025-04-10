@@ -1,0 +1,280 @@
+[[QpidProton]]
+arch = "aarch64"
+git-tree-sha1 = "50e23a32055a2102845aa03a22c7488718b535a2"
+os = "macos"
+
+    [[QpidProton.download]]
+    sha256 = "e012955056a4398bccff347078ad19e484a9e35a697d265fff2dd1bdbf7b7c1f"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.aarch64-apple-darwin.tar.gz"
+[[QpidProton]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "496fc28445628c8a4c063845db5d5f217c2c9eb1"
+libc = "glibc"
+os = "linux"
+
+    [[QpidProton.download]]
+    sha256 = "2c54300a17710222aa888f331599778df6b4b180fe7f04fcd6afdb2167e7994e"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[QpidProton]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c1f7c41dcf565d36713b84bec2bd294e76ebf0ce"
+libc = "glibc"
+os = "linux"
+
+    [[QpidProton.download]]
+    sha256 = "5330bfaa51ac4e7a87592aee52ca38a9e5cee41b8d052a3afe965e9e3d6a4e83"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[QpidProton]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e2af7c09f9c866d4ba10b1f830f7b5c737bd9b13"
+libc = "musl"
+os = "linux"
+
+    [[QpidProton.download]]
+    sha256 = "94d9dfaf494784b1c2bfb3600c0a8a8f64013169b6886d556d68fceb9ff8a67f"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.aarch64-linux-musl-cxx03.tar.gz"
+[[QpidProton]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ce36f3146da62eb125e63e4ef23bf6badce0a739"
+libc = "musl"
+os = "linux"
+
+    [[QpidProton.download]]
+    sha256 = "765ebcab9f2a895adf5e6084a2be12fb04e4f07d7a82f061936334653699a16c"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.aarch64-linux-musl-cxx11.tar.gz"
+[[QpidProton]]
+arch = "aarch64"
+git-tree-sha1 = "b9d899fc027e36c4558a92537117bad889fbcd61"
+os = "freebsd"
+
+    [[QpidProton.download]]
+    sha256 = "31971869dc909422ed921103e13acb737879caa28c2759ef116800c9a6184947"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.aarch64-unknown-freebsd.tar.gz"
+[[QpidProton]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5fe7aa4252c368dbb154eeea378c6a6979aec64b"
+libc = "glibc"
+os = "linux"
+
+    [[QpidProton.download]]
+    sha256 = "8136ce3d0ba2c3f8260c5b2c5da74e7691b873ea21fd4512184db4caddb500c0"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[QpidProton]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "92e60d1b0bc6d2dd640ef5dbae51060990ee93d0"
+libc = "glibc"
+os = "linux"
+
+    [[QpidProton.download]]
+    sha256 = "5d6653910c4b970882c67e7cad50e08e0dfcccbb1ae9265f9cbf34f6a376d443"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[QpidProton]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "52d67e03503000fbd770755f8014d620ee0c4b54"
+libc = "musl"
+os = "linux"
+
+    [[QpidProton.download]]
+    sha256 = "a6894152e81b169329b9a86a4cabd2f9db7c5c5d5294be62a7521f683106a073"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[QpidProton]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ed06d4a05234022b087e699e4f415061c8ff1c7a"
+libc = "musl"
+os = "linux"
+
+    [[QpidProton.download]]
+    sha256 = "706946c32e8b63ed228acdda1c141a44a49e1a9320f0d1e6df606d59a27a774f"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[QpidProton]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b59e806cc7886c742b1aa3b7556e824309d4c1dd"
+libc = "glibc"
+os = "linux"
+
+    [[QpidProton.download]]
+    sha256 = "37656b930e1e66cbf89ae581090dbc3114e201f3a991b16d493895812b6a93b2"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[QpidProton]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7f20883a73f513afa27f5cfaba37bf1b0c9fb4df"
+libc = "glibc"
+os = "linux"
+
+    [[QpidProton.download]]
+    sha256 = "e4e505921539067ced9a6c43f03122083e480cdd97c4b093fb6810ea35797187"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[QpidProton]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "69e9190ca2e3a5c50fbc5f3241796f8cbd692e1c"
+libc = "musl"
+os = "linux"
+
+    [[QpidProton.download]]
+    sha256 = "146195e21e81c836003c8ec5f9e6c782c083ea97a6ddf6664420f27523d784d8"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[QpidProton]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1e4083b6973ed473eaf2b345855df4ce54e7560a"
+libc = "musl"
+os = "linux"
+
+    [[QpidProton.download]]
+    sha256 = "2b0caf96a635b0c12f2472fd5cbb4f4629f096dc79bfd71eddeec5060b44c0ff"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[QpidProton]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e3fd1be1b5a3e24a779f0e5574fc4e681f7c1ad8"
+libc = "glibc"
+os = "linux"
+
+    [[QpidProton.download]]
+    sha256 = "715ad9e0ce3142d6cdf19821f204d611dc1d6be999d92a484eb7a70c642e0b56"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.i686-linux-gnu-cxx03.tar.gz"
+[[QpidProton]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b5b63900ac09ceeb9e1121fb1f798afc5f852f2c"
+libc = "glibc"
+os = "linux"
+
+    [[QpidProton.download]]
+    sha256 = "cdaaebbd5d8b7479ad5d2dbbfde5aeb7d34647dc90056a7a0daa3fb41cdf6a57"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.i686-linux-gnu-cxx11.tar.gz"
+[[QpidProton]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "836ae8b7f895db9dbd91562ea3d07d51aab95b2b"
+libc = "musl"
+os = "linux"
+
+    [[QpidProton.download]]
+    sha256 = "e9d7abcf374abc581de743d5ccbb2fc32ae018b73344507895c34680bc13a2ca"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.i686-linux-musl-cxx03.tar.gz"
+[[QpidProton]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5a35d083a88a788653ed02130b18a040c1d08440"
+libc = "musl"
+os = "linux"
+
+    [[QpidProton.download]]
+    sha256 = "7634a39cda71fd2ce7c944aba3a5a22e18d52df36555148b6339a3a79cb6ba41"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.i686-linux-musl-cxx11.tar.gz"
+[[QpidProton]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f8cfc080dc69a73559e40ff0d03267f73472cf0b"
+libc = "glibc"
+os = "linux"
+
+    [[QpidProton.download]]
+    sha256 = "d34acedc53c7b9b952c0159cd33beaa09bdecbaf1c0eb1827689a9ea8198dca4"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[QpidProton]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "130722fa492268089e219e18c696a973971255f9"
+libc = "glibc"
+os = "linux"
+
+    [[QpidProton.download]]
+    sha256 = "6d43cd70d83bc58d82f6454dc55787acf39cd8d123c2d619840b8258ed03dde1"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[QpidProton]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "84c727a8102adb8b3447ea9f34448f2a2511ed33"
+libc = "glibc"
+os = "linux"
+
+    [[QpidProton.download]]
+    sha256 = "01f617854929e1bc87df7a54f9d8ddb968d51bc73bca140ff958a5a9bd865469"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.riscv64-linux-gnu-cxx03.tar.gz"
+[[QpidProton]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6194519e27fb47d1ef34339989acf8261b36ac84"
+libc = "glibc"
+os = "linux"
+
+    [[QpidProton.download]]
+    sha256 = "44f4f15ed71755fe0dee072408b48b1026b13c2789ed9688b927a5caf029c7d7"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.riscv64-linux-gnu-cxx11.tar.gz"
+[[QpidProton]]
+arch = "x86_64"
+git-tree-sha1 = "43bcdbf7f0901c703ef0296dbcfc3be923f33184"
+os = "macos"
+
+    [[QpidProton.download]]
+    sha256 = "48100848be644b4010696695f47a10aed694da88791b2e4928346affd104bb7f"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.x86_64-apple-darwin.tar.gz"
+[[QpidProton]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ff5056d0cc114f4025c1425fc772f3a1ec1ff03c"
+libc = "glibc"
+os = "linux"
+
+    [[QpidProton.download]]
+    sha256 = "ae480fc0874f1894846b3c58f5c6f8578b38c258658ac3207793ac6a9fb542b8"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[QpidProton]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3770e2ffc8e08c2f13b79e6829bacfb194999730"
+libc = "glibc"
+os = "linux"
+
+    [[QpidProton.download]]
+    sha256 = "303b9a928fcb1c46df09e3b94d2119e078f8cccb93fdbed233ac566073434f33"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[QpidProton]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c83d81be688774d3b0030bf17aab018b1da97bba"
+libc = "musl"
+os = "linux"
+
+    [[QpidProton.download]]
+    sha256 = "9ba8a7960deaeb261587dcccf767445c889c4dff74e7096dc4513904c2b2420e"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.x86_64-linux-musl-cxx03.tar.gz"
+[[QpidProton]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8e97ee13b3964e7ce4b5693e2f192ba06c6e5d99"
+libc = "musl"
+os = "linux"
+
+    [[QpidProton.download]]
+    sha256 = "fcbbebe85eaa27e4acdd0087cb35e7d7e168f31f52c82eea7174b1d5498cb380"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.x86_64-linux-musl-cxx11.tar.gz"
+[[QpidProton]]
+arch = "x86_64"
+git-tree-sha1 = "b323e940176f463745eba67612deb19289ce9505"
+os = "freebsd"
+
+    [[QpidProton.download]]
+    sha256 = "285df40fc76dd8301d8fb77519b8a55fb3412f43a3868974111cefca890c9fac"
+    url = "https://github.com/JuliaBinaryWrappers/QpidProton_jll.jl/releases/download/QpidProton-v0.40.0+0/QpidProton.v0.40.0.x86_64-unknown-freebsd.tar.gz"
